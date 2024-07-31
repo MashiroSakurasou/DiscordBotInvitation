@@ -13,7 +13,7 @@ Check the server and bot information.
 ## Bug report and suggestions
 please join [my discord server](https://discord.gg/67vMVwTNuG) and DM 椎名ましろ(shiina.mashiro.) to report any issues or suggestions. Everything is welcomed and appreciated!
 
-# Discord机器人使用方法
+# Discord机器人荻原沙優用户指南
 ## 一个功能丰富、可定制的音乐和管理 Discord 机器人。
 点击[这里](https://discord.com/oauth2/authorize?client_id=1240521816582262845&permissions=8&integration_type=0&scope=bot)将机器人邀请到你的服务器。
 ## 斜杠命令的使用方法
