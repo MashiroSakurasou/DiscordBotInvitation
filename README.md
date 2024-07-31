@@ -11,7 +11,7 @@ Skip the current playing audi.
 ### /info
 Check the server and bot information.
 ## Bug report and suggestions
-please join [my discord server](https://discord.gg/67vMVwTNuG) and DM 椎名ましろ(shiina.mashiro.) to report any issues or suggestions. Everything is welcomed and appreciated!
+please join [our discord server](https://discord.gg/67vMVwTNuG) and DM 椎名ましろ(shiina.mashiro.) to report any issues or suggestions. Everything is welcomed and appreciated!
 
 # Discord机器人 荻原沙优 用户指南
 ## 一个功能丰富、可定制的音乐和管理 Discord 机器人。
@@ -24,4 +24,4 @@ please join [my discord server](https://discord.gg/67vMVwTNuG) and DM 椎名ま�
 ### /info
 查看服务器和机器人的信息。
 ## 反馈与建议
-请加入[我的Discord服务器](https://discord.gg/67vMVwTNuG)并私信 椎名ましろ（shiina.mashiro.） 报告任何问题或建议。我们欢迎并感谢一切反馈！
+请加入[我们的Discord服务器](https://discord.gg/67vMVwTNuG)并私信 椎名ましろ（shiina.mashiro.） 报告任何问题或建议。我们欢迎并感谢一切反馈！
